@@ -13,7 +13,7 @@ Through the project, we would like to find out the methods of storytelling. What
 First, we begin our data collection process by exploring the vast collection of stories available on YouTube, where we encounter a wide array of genres.Taking into account the variety seen in these genres, we use a methodical approach, choosing six exemplary stories from each group. We plan to conduct a comparison study in an effort to identify the unique characteristics that make these tales unique. We hope to learn more about the distinctive qualities, recurring themes, and storytelling strategies that characterise each genre by closely analysing and analysing these stories. We intend to clarify the elements that most powerfully connect with viewers and illuminate the subtleties that add to these stories' engaging quality through this careful investigation. In the end, our research aims to disentangle the complex web of narrative on YouTube, providing insightful knowledge on the craft of story construction and its influence on viewer involvement.
 
 
-## Data
+# Data
 
 ## Transcription (Audio only)
 
