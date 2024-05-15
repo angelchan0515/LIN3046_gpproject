@@ -3,15 +3,15 @@
 # Introduction
 Due to COVID-19,  all of Hong Kong’s school suspension classes. No one tells stories to Kindergarden’s students that will affect students' language development and pronunciation system. So, we would like to create a story audiobook to help kids develop basic language skills and profoundly expand their vocabularies.On top of this, help students develop their critical thinking skills through questions.
 
-# Descriptive Data
+## Descriptive Data
 We collect our data at Youtube. Also, we used Beecut and Whisper to help transform audio to transcips. Finally, we used excel to store our data.
 
-# Research Questions or Problem Addressed
+## Research Questions or Problem Addressed
 Through the project, we would like to find out the methods of storytelling. What are the differences in tone and delivery between different storytellers.
 
-#Data
+## Data
 
-#Transcription (Audio only)
+## Transcription (Audio only)
 
 狼來了 https  //www.youtube.com/watch?v=i7MQef5M2qs
 
@@ -36,8 +36,12 @@ Our data segmentation is based on the story reader’s assertions.
 # Metadata
 | Raw  | Processed |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 01story_raw.txt  | 01story_processed.txt  |
+| 02story_raw.txt  | 02story_processed.txt  |
+| 03story_raw.txt  | 03story_processed.txt  |
+| 04story_raw.txt  | 04story_processed.txt  |
+| 05story_raw.txt  | 05story_processed.txt  |
+| 06story_raw.txt  | 06story_processed.txt  |
 
 
 # Annotation
@@ -57,21 +61,21 @@ Lastly, the annotation of Code-switching. Children with visual impairment may ha
 
 # Methodology
 
-A) Collection
+## A) Collection
 Gather a wide variety of story audiobooks from YouTube to ensure diversity in storytelling styles and content.
 
 Utilize tools such as Beecut and Whisper for the conversion of audio content into written transcripts, allowing for easier analysis and evaluation.
 
 Employ Excel or any other appropriate software to effectively store and organize the collected data, facilitating seamless access and further analysis of the information.
 
-B) Cleaning
+## B) Cleaning
 Eliminate any content from the collected YouTube audiobooks that is not directly related to the story, ensuring that only the story content remains for analysis.
 
 Utilize Beecut and Whisper tools to convert the audio content of the audiobooks into written transcripts. Thoroughly review the transcripts for accuracy and make any required corrections.
 
 Exclude any unnecessary information or non-verbal elements from the transcripts, such as questionnaires or non-verbal sounds, to focus solely on the story text.
 
-C) Analysis
+## C) Analysis
 Storytelling Techniques: Examine the gathered audiobooks and identify the diverse range of storytelling techniques employed in each. These techniques may encompass elements such as voice modulation, character voices, gestures, props, or interactive components. Categorize and describe these techniques to gain insights into their effects on engagement and language development.
 
 Language Usage and Complexity: Compare the transcripts of various stories and analyze the language usage, richness of vocabulary, sentence structure, and complexity. Identify any prevailing patterns or disparities in language utilization that might influence language acquisition and expansion among Kindergarten students.
