@@ -12,9 +12,15 @@ Through the project, we would like to find out the methods of storytelling. What
 #Data
 
 #Transcription (Audio only)
+
 如果不吃青菜 https  //www.youtube.com/watch?v=5rqRO9zTudg
+
 醜小鴨 https  //www.youtube.com/watch?v=qsnbltimLRM
+
 狼來了 https  //www.youtube.com/watch?v=i7MQef5M2qs
+
 聰明的烏鴉 https  //www.youtube.com/watch?v=vzynlumL9UU
+
 過馬路 https  //www.youtube.com/watch?v=ZEfJkgOaquA
+
 灰姑娘 https  //www.youtube.com/watch?v=gTa_sq6Ra5A
