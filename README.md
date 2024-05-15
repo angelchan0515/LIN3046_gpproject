@@ -24,3 +24,58 @@ Through the project, we would like to find out the methods of storytelling. What
 過馬路 https  //www.youtube.com/watch?v=ZEfJkgOaquA
 
 灰姑娘 https  //www.youtube.com/watch?v=gTa_sq6Ra5A
+
+# Segmentation
+Our data segmentation is based on the story reader’s assertions.
+
+
+
+
+# Metadata
+                       raw and revised
+
+
+# Annotation
+In the Annotation, we will analyze six Annotations which are Character Conversion, Vocals (Undulate), Question, Discourse fillers, Modifier, Code-switching. 
+Firstly, the annotations of Character Conversion. “/c/” have been used to show the questions that the narrator asked during the story time. As a visually impaired person, they can not see how many characters there are in a book. audiobooks can help them identify how many characters there are because the storyteller will be playing the voices of multiple characters at the same time, allowing them to know how many characters there are.
+
+Secondly, the annotations of voice (Undulation). We will analyze whether the voice line has ups and downs because the ups and downs of the voice will affect the listener’s feeling and understanding. Moreover, the ups and downs of the voice can guide the listener to be more involved in the world of the story and enhance the listener’s interest in the story. Also, the rise and fall of the voice can help the listener to understand the emotion conveyed in the story. 
+
+Thirdly, the annotation of Question. “/q/” have been used to show the questions that the narrator asked during the story time. The purpose of a question sentence is to get the listener thinking, to stimulate curiosity and to encourage active participation in the text. In addition, questions can help them focus more on the audiobook, promote deeper understanding and explore their critical thinking. 
+
+Fourthly, the annotation of discourse fillers. Data validation has been used which is the process of checking and validating collected data before it is used. In any type of data processing, whether collecting data, analyzing it or structuring it for presentation, data validation must be performed to ensure accurate results. There are many fillers in the Cantonese world. Therefore, using data validation will be more convenient. It also helps to increase the tone of voice so that visually impaired children can feel the atmosphere of the storybook. Even if they can't see the pictures in the story, they can use the narrator's voice to fantasize about what's going on in the story. 
+
+Then, the annotation of Modifier.  It makes sentences lively and interesting, and to improve children's sense of language. Also, Teach children the concept of adding adjectives before nouns. Engage children in the story. 
+
+Lastly, the annotation of Code-switching. Children with visual impairment may have low self-esteem due to their disability, leading to social isolation. It is difficult for them to learn to communicate through social interaction, whereas the culture of Hong Kong is to communicate in biliteracy and trilingualism. So, the audio-books enable visually impaired children to learn about the culture of Hong Kong and to learn to communicate.
+
+
+# Methodology
+
+A) Collection
+Gather a wide variety of story audiobooks from YouTube to ensure diversity in storytelling styles and content.
+
+Utilize tools such as Beecut and Whisper for the conversion of audio content into written transcripts, allowing for easier analysis and evaluation.
+
+Employ Excel or any other appropriate software to effectively store and organize the collected data, facilitating seamless access and further analysis of the information.
+
+B) Cleaning
+Eliminate any content from the collected YouTube audiobooks that is not directly related to the story, ensuring that only the story content remains for analysis.
+
+Utilize Beecut and Whisper tools to convert the audio content of the audiobooks into written transcripts. Thoroughly review the transcripts for accuracy and make any required corrections.
+
+Exclude any unnecessary information or non-verbal elements from the transcripts, such as questionnaires or non-verbal sounds, to focus solely on the story text.
+
+C) Analysis
+Storytelling Techniques: Examine the gathered audiobooks and identify the diverse range of storytelling techniques employed in each. These techniques may encompass elements such as voice modulation, character voices, gestures, props, or interactive components. Categorize and describe these techniques to gain insights into their effects on engagement and language development.
+
+Language Usage and Complexity: Compare the transcripts of various stories and analyze the language usage, richness of vocabulary, sentence structure, and complexity. Identify any prevailing patterns or disparities in language utilization that might influence language acquisition and expansion among Kindergarten students.
+
+Tone and Delivery: Construct a framework for assessing and evaluating the tone and delivery of different storytellers. This framework should encompass factors such as intonation, pace, emphasis, and overall engagement. Analyze how these factors influence the students' enjoyment, comprehension, and critical thinking skills during the storytelling experience.
+
+# Discussion
+relevant licensing issues and ethical concerns (if any)
+potential use cases and future development.
+
+
+
