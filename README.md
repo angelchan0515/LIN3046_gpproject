@@ -28,10 +28,13 @@ Through the project, we would like to find out the methods of storytelling. What
 
 
 # Segmentation
-Our data segmentation is based on the story reader’s assertions.
+Following the collection of audio data from YouTube, our subsequent task was to transcribe it into written format for simplified analysis. In order to achieve this goal, we used various tools like Beecut and Whisper, which use advanced speech recognition algorithms to accurately transcribe the audio. These tools gave us a written version of the audio material, making it easier for additional examination. 
 
+After receiving the transcriptions, we sorted the information using Excel as our main storage system. Excel's ability to adapt to different tasks and its widespread use enabled us to effectively handle and alter the data. In order to have a structured method, we divided the data according to different factors such as the assertions of the story narrator, various storytellers, and dialogues of characters. A separate sheet in Excel was designated for each segment, allowing for organized access and efficient analysis. 
 
+By utilizing this segmentation approach, we benefited from having separate data units that could be assessed and studied individually. It allowed us to concentrate on certain parts of the information and detect trends or connections in each section. In addition, this structured method simplifies the resolution of particular issues that crop up during the analysis process. By looking at the specific section in Excel, we could promptly find and offer specific solutions for the problems that were identified. 
 
+To sum up, our approach included transforming audio information into text using applications such as Beecut and Whisper, then arranging the written records in Excel by segmenting the data. This method made sure that access was easy, manageable, and gave a solid basis for analysis, allowing us to gain valuable insights and effectively tackle any obstacles faced during the process.
 
 # Metadata
 | Raw  | Processed |
