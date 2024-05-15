@@ -103,7 +103,7 @@ We hope that our audiobook can provide Chinese PinYin or different language tran
 
 # Contributor
 
-### |Contributor|
+
 
  | Chan Wing Yu, Angel |
 |-------------------------|
