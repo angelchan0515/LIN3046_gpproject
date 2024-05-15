@@ -1,7 +1,7 @@
 # LIN3046_gpproject
 
 # Introduction
-Due to COVID-19,  all of Hong Kong’s school suspension classes. No one tells stories to Kindergarden’s students that will affect students' language development and pronunciation system. So, we would like to create a story audiobook to help kids develop basic language skills and profoundly expand their vocabularies.On top of this, help students develop their critical thinking skills through questions.
+Because of COVID-19, all schools in Hong Kong had to shut down, and that means no more storytelling for the little ones in Kindergarten. It's a bummer because hearing stories helps kids with their language skills and pronunciation. So, we've decided to step up and create a super cool story audiobook that will help these kiddos develop their language skills and learn tons of new words. But we're not stopping there! We're also including fun questions throughout the audiobook to get them thinking critically. We want these kids to have a blast while expanding their minds and becoming language superstars, even if they can't go to school right now.
 
 ## Descriptive Data
 We collect our data at Youtube. Also, we used Beecut and Whisper to help transform audio to transcips. Finally, we used excel to store our data.
