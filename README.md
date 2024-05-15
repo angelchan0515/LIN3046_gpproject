@@ -100,11 +100,20 @@ We have discovered that all of the stories are free of sentence structure mistak
 # Potential use cases and future development.
 We hope that our audiobook can provide Chinese PinYin or different language transcripts. For example, English and Putonghua transcripts. This will help students develop a comprehensive language system and supports students in building a solid foundation in biliteracy and trilingualism.
 
+
 # Contributor
-| Chan Wing Yu, Angel |------------------| 1.Excel File: Collect data and analysis2.README File3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
-|Ho Sin Ting, Sindy |------------------|1.Excel File: Collect data and analysis2.README File3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
-| Kwok Ka Lam, Rachel |------------------|1.Excel File: Collect data and analysis2.README File3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
-|Pak Hoi Lam, Abby |------------------|1.Excel File: Collect data and analysis2.README File3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
+| Chan Wing Yu, Angel |
+|---------------------|
+|1.Excel File: Collect data and analysis2.README File3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
+| Ho Sin Ting, Sindy  | 
+|---------------------|
+|1.Excel File: Collect data and analysis2.README File3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
+| Kwok Ka Lam, Rachel |
+|---------------------|
+|1.Excel File: Collect data and analysis2.README File3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
+| Pak Hoi Lam, Abby |
+|---------------------|
+|1.Excel File: Collect data and analysis2.README File3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
 
 
 
