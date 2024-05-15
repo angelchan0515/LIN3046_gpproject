@@ -83,8 +83,14 @@ Language Usage and Complexity: Compare the transcripts of various stories and an
 Tone and Delivery: Construct a framework for assessing and evaluating the tone and delivery of different storytellers. This framework should encompass factors such as intonation, pace, emphasis, and overall engagement. Analyze how these factors influence the students' enjoyment, comprehension, and critical thinking skills during the storytelling experience.
 
 # Discussion
-relevant licensing issues and ethical concerns (if any)
-potential use cases and future development.
+We have discovered that all of the stories are free of sentence structure mistakes. Additionally, most storytellers employ varying tones and inflections in their voices, which is effective in capturing the attention of students. Despite storytelling relying on spoken language, there is a deliberate avoidance of excessive modal particles in each sentence. This is because modal particles, as modifier words, tend to confuse students.
+
+# Relevant licensing issues and ethical concerns 
+ Youtube video (Copyright)
+
+# Potential use cases and future development.
+We hope that our audiobook can provide Chinese PinYin or different language transcripts. For example, English and Putonghua transcripts. This will help students develop a comprehensive language system and supports students in building a solid foundation in biliteracy and trilingualism.
+
 
 
 
