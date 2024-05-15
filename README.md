@@ -103,7 +103,47 @@ We hope that our audiobook can provide Chinese PinYin or different language tran
 # Contributor
 | Chan Wing Yu, Angel | Ho Sin Ting, Sindy | Kwok Ka Lam, Rachel | Pak Hoi Lam, Abby |
 |---------------------|--------------------|---------------------|-------------------|
-|Excel, Readme file Proposal: Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns ,Potential use cases and future development|Excel, Readme file Proposal: Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns ,Potential use cases and future development|Excel, Readme file Proposal: Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns ,Potential use cases and future development|Excel, Readme file Proposal: Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns ,Potential use cases and future development|
+|1.Excel File: 
+Collect data and analysis
+2.README File
+3.Proposal:
+Introduction
+Data
+Methodology
+Discussion 
+Relevant licensing issues and ethical concerns 
+Potential use cases and future development
+||1.Excel File: 
+Collect data and analysis
+2.README File
+3.Proposal:
+Introduction
+Data
+Methodology
+Discussion 
+Relevant licensing issues and ethical concerns 
+Potential use cases and future development
+||1.Excel File: 
+Collect data and analysis
+2.README File
+3.Proposal:
+Introduction
+Data
+Methodology
+Discussion 
+Relevant licensing issues and ethical concerns 
+Potential use cases and future development
+||1.Excel File: 
+Collect data and analysis
+2.README File
+3.Proposal:
+Introduction
+Data
+Methodology
+Discussion 
+Relevant licensing issues and ethical concerns 
+Potential use cases and future development
+|Excel, Readme file Proposal: Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns ,Potential use cases and future development|Excel, Readme file Proposal: Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns ,Potential use cases and future development|Excel, Readme file Proposal: Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns ,Potential use cases and future development|
 
 
 
