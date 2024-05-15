@@ -19,17 +19,18 @@ First, we begin our data collection process by exploring the vast collection of 
 ## Transcription (Audio only)
 | Name  | Link |
 | ------------- | ------------- |
-|狼來了| https://www.youtube.com/watch?v=i7MQef5M2qs|
 
-|如果不吃青菜| https://www.youtube.com/watch?v=5rqRO9zTudg|
+|狼來了 | https://www.youtube.com/watch?v=i7MQef5M2qs|
 
-|灰姑娘| https://www.youtube.com/watch?v=gTa_sq6Ra5A|
+|如果不吃青菜 | https://www.youtube.com/watch?v=5rqRO9zTudg|
 
-|醜小鴨| https://www.youtube.com/watch?v=qsnbltimLRM|
+|灰姑娘 | https://www.youtube.com/watch?v=gTa_sq6Ra5A|
 
-|過馬路| https://www.youtube.com/watch?v=ZEfJkgOaquA|
+|醜小鴨 | https://www.youtube.com/watch?v=qsnbltimLRM|
 
-|聰明的烏鴉| https://www.youtube.com/watch?v=vzynlumL9UU|
+|過馬路 | https://www.youtube.com/watch?v=ZEfJkgOaquA|
+
+|聰明的烏鴉 | https://www.youtube.com/watch?v=vzynlumL9UU|
 
 
 
@@ -112,7 +113,7 @@ We hope that our audiobook can provide Chinese PinYin or different language tran
 
  | Chan Wing Yu, Angel (11485619)|
 |-------------------------|
-|1.Excel File: Collect data and analysis ; 2.README File 3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
+|1.Excel File: Collect data and analysis 2.README File 3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
 
  | Ho Sin Ting, Sindy  (11488673)| 
 |-------------------------|
