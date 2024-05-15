@@ -20,7 +20,7 @@ First, we begin our data collection process by exploring the vast collection of 
 | Name  | Link |
 | ------------- | ------------- |
 
-|狼來了 | [Link to 狼來了](https://www.youtube.com/watch?v=i7MQef5M2qs) 
+|狼來了 | [Link to 狼來了](https://www.youtube.com/watch?v=i7MQef5M2qs) |
 
 |如果不吃青菜 | https://www.youtube.com/watch?v=5rqRO9zTudg|
 
