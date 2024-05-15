@@ -13,17 +13,17 @@ Through the project, we would like to find out the methods of storytelling. What
 
 ## Transcription (Audio only)
 
-狼來了 https  //www.youtube.com/watch?v=i7MQef5M2qs
+狼來了 https://www.youtube.com/watch?v=i7MQef5M2qs
 
-如果不吃青菜 https  //www.youtube.com/watch?v=5rqRO9zTudg
+如果不吃青菜 https://www.youtube.com/watch?v=5rqRO9zTudg
 
-灰姑娘 https  //www.youtube.com/watch?v=gTa_sq6Ra5A
+灰姑娘 https://www.youtube.com/watch?v=gTa_sq6Ra5A
 
-醜小鴨 https  //www.youtube.com/watch?v=qsnbltimLRM
+醜小鴨 https://www.youtube.com/watch?v=qsnbltimLRM
 
-過馬路 https  //www.youtube.com/watch?v=ZEfJkgOaquA
+過馬路 https://www.youtube.com/watch?v=ZEfJkgOaquA
 
-聰明的烏鴉 https  //www.youtube.com/watch?v=vzynlumL9UU
+聰明的烏鴉 https://www.youtube.com/watch?v=vzynlumL9UU
 
 
 
@@ -36,12 +36,12 @@ Our data segmentation is based on the story reader’s assertions.
 # Metadata
 | Raw  | Processed |
 | ------------- | ------------- |
-| [Link to 01story_raw.txt](./01story_raw.txt) | 01story_processed.txt  |
-| 02story_raw.txt  | 02story_processed.txt  |
-| 03story_raw.txt  | 03story_processed.txt  |
-| 04story_raw.txt  | 04story_processed.txt  |
-| 05story_raw.txt  | 05story_processed.txt  |
-| 06story_raw.txt  | 06story_processed.txt  |
+| [Link to 01story_raw.txt](./01story_raw.txt)  | [Link to 01story_processed.txt](./01story_processed.txt) |
+| [Link to 02story_raw.txt](./02story_raw.txt)  | [Link to 02story_processed.txt](./02story_processed.txt) |
+| [Link to 03story_raw.txt](./03story_raw.txt)  | [Link to 03story_processed.txt](./03story_processed.txt) |
+| [Link to 04story_raw.txt](./04story_raw.txt)  | [Link to 04story_processed.txt](./04story_processed.txt) |
+|[Link to 05story_raw.txt](./05story_raw.txt)   | [Link to 05story_processed.txt](./05story_processed.txt)   |
+| [Link to 06story_raw.txt](./06story_raw.txt)  | [Link to 06story_processed.txt](./06story_processed.txt)  |
 
 
 # Annotation
