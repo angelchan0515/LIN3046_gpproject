@@ -36,7 +36,7 @@ Our data segmentation is based on the story reader’s assertions.
 # Metadata
 | Raw  | Processed |
 | ------------- | ------------- |
-| 01story_raw.txt  | 01story_processed.txt  |
+| [Link to 01story_raw.txt](./01story_raw.txt) | 01story_processed.txt  |
 | 02story_raw.txt  | 02story_processed.txt  |
 | 03story_raw.txt  | 03story_processed.txt  |
 | 04story_raw.txt  | 04story_processed.txt  |
