@@ -110,15 +110,15 @@ We hope that our audiobook can provide Chinese PinYin or different language tran
 |-------------------------|
 |1.Excel File: Collect data and analysis 2.README File 3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
 
- | Ho Sin Ting, Sindy  | 
+ | Ho Sin Ting, Sindy  (11488673)| 
 |-------------------------|
 |1.Excel File: Collect data and analysis 2.README File 3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
 
- | Kwok Ka Lam, Rachel |
+ | Kwok Ka Lam, Rachel (11485372)|
 |-------------------------|
 |1.Excel File: Collect data and analysis 2.README File 3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
 
- | Pak Hoi Lam, Abby |
+ | Pak Hoi Lam, Abby (11381356)|
 |-----------------------|
 |1.Excel File: Collect data and analysis 2.README File 3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
 
