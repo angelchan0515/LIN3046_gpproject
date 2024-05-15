@@ -34,7 +34,10 @@ Our data segmentation is based on the story reader’s assertions.
 
 
 # Metadata
-                       raw and revised
+| Raw  | Processed |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 # Annotation
