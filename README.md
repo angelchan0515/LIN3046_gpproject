@@ -35,6 +35,7 @@ First, we begin our data collection process by exploring the vast collection of 
 # Segmentation
 
 Excel sheet: https://docs.google.com/spreadsheets/d/1BV_sc_luCWJ6ZTlEgngRAmaQI4ztAxF74rRsg45lcEY/edit?usp=sharing
+
 We collected the audio data from YouTuber. After that we transcribe it into written format for simplified analysis. We used various tools like Beecut and Whisper, which use advanced speech recognition algorithms to accurately transcribe the audio. These tools gave us a written version of the audio material, making it easier for additional examination. 
 
 After receiving the transcriptions, we sorted the information using Excel as our main storage system. Excel's ability to adapt to different tasks and its widespread use enabled us to effectively handle and alter the data. In order to have a structured method, we divided the data according to different factors such as the assertions of the story narrator, various storytellers, and dialogues of characters. A separate sheet in Excel was designated for each segment, allowing for organized access and efficient analysis. 
