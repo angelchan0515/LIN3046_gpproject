@@ -104,11 +104,11 @@ We hope that our audiobook can provide Chinese PinYin or different language tran
 # Contributor
 
 ### |Contributor|
-|---------------------|
+
  | Chan Wing Yu, Angel |
 |-------------------------|
 |1.Excel File: Collect data and analysis 2.README File 3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
-### | Ho Sin Ting, Sindy  | 
+ | Ho Sin Ting, Sindy  | 
 |-------------------------|
 |1.Excel File: Collect data and analysis 2.README File 3.Proposal:Introduction,Data,Methodology,Discussion ,Relevant licensing issues and ethical concerns , Potential use cases and future development|
 ### | Kwok Ka Lam, Rachel |
