@@ -100,6 +100,9 @@ We have discovered that all of the stories are free of sentence structure mistak
 # Potential use cases and future development.
 We hope that our audiobook can provide Chinese PinYin or different language transcripts. For example, English and Putonghua transcripts. This will help students develop a comprehensive language system and supports students in building a solid foundation in biliteracy and trilingualism.
 
-
+#Contributor
+| Chan Wing Yu, Angel | Ho Sin Ting, Sindy | Kwok Ka Lam, Rachel | Pak Hoi Lam, Abby |
+| ------------------- | ------------------ |-------------------- |------------------ |
+| 
 
 
